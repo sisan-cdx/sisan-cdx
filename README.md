@@ -2,7 +2,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
@@ -12,16 +12,12 @@
 
 ###
 
-<h2 align="left">A complete curious beginner.</h2>
+<h2 align="center">A complete curious beginner.</h2>
 
 ###
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sisan-cdx/sisan-cdx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sisan-cdx/sisan-cdx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sisan-cdx/sisan-cdx/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/sisan-cdx/sisan-cdx/output/snake.svg" alt="Snake animation" />
 
 ###
