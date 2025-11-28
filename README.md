@@ -1,41 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 30" width="600" height="150" role="img" aria-label="Animated snake">
-  <defs>
-    <path id="snake-path" d="M2 15 C20 5, 40 25, 60 15 C80 5, 100 25, 118 15" fill="none"/>
-    <linearGradient id="g" x1="0" x2="1">
-      <stop offset="0%" stop-color="#6cc644"/>
-      <stop offset="100%" stop-color="#2ea44f"/>
-    </linearGradient>
-  </defs>
+<h2 align="center">Welcome to my profile! (˶ˆᗜˆ˵)</h2>
 
-  <!-- invisible path for reference -->
-  <use href="#snake-path" fill="none" stroke="transparent" />
+###
 
-  <!-- repeated circles to mimic a snake body -->
-  <g fill="url(#g)">
-    <circle r="2.5">
-      <animateMotion dur="3.5s" repeatCount="indefinite" rotate="auto">
-        <mpath href="#snake-path" />
-      </animateMotion>
-    </circle>
-    <circle r="2.5" opacity="0.9">
-      <animateMotion begin="-0.25s" dur="3.5s" repeatCount="indefinite" rotate="auto">
-        <mpath href="#snake-path" />
-      </animateMotion>
-    </circle>
-    <circle r="2.5" opacity="0.8">
-      <animateMotion begin="-0.5s" dur="3.5s" repeatCount="indefinite" rotate="auto">
-        <mpath href="#snake-path" />
-      </animateMotion>
-    </circle>
-    <circle r="2.5" opacity="0.7">
-      <animateMotion begin="-0.75s" dur="3.5s" repeatCount="indefinite" rotate="auto">
-        <mpath href="#snake-path" />
-      </animateMotion>
-    </circle>
-    <circle r="2.5" opacity="0.6">
-      <animateMotion begin="-1s" dur="3.5s" repeatCount="indefinite" rotate="auto">
-        <mpath href="#snake-path" />
-      </animateMotion>
-    </circle>
-  </g>
-</svg>
+<br clear="both">
+
+<img align="right" height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnU4aHgzN2JmZHliZ2pndTV0ODVjMmV1eDJkdzdkbXRodDA2bzB0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzeWnbH8Uc5Y4/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+</div>
+
+###
+
+<h4 align="center">A complete curious beginner!<br>	(づ｡◕‿‿◕｡)づ</h4>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:sisan-cdx?theme=booru-r6gdrawfriends&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
