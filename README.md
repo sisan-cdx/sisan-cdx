@@ -1,15 +1,41 @@
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/notion/000000" height="40" alt="notion logo" />
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 30" width="600" height="150" role="img" aria-label="Animated snake">
+  <defs>
+    <path id="snake-path" d="M2 15 C20 5, 40 25, 60 15 C80 5, 100 25, 118 15" fill="none"/>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#6cc644"/>
+      <stop offset="100%" stop-color="#2ea44f"/>
+    </linearGradient>
+  </defs>
 
-<h2 align="center">A complete curious beginner.</h2>
+  <!-- invisible path for reference -->
+  <use href="#snake-path" fill="none" stroke="transparent" />
 
-<br clear="both">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sisan-cdx/sisan-cdx/output/snake.svg" alt="Snake animation" />
-</p>
+  <!-- repeated circles to mimic a snake body -->
+  <g fill="url(#g)">
+    <circle r="2.5">
+      <animateMotion dur="3.5s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#snake-path" />
+      </animateMotion>
+    </circle>
+    <circle r="2.5" opacity="0.9">
+      <animateMotion begin="-0.25s" dur="3.5s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#snake-path" />
+      </animateMotion>
+    </circle>
+    <circle r="2.5" opacity="0.8">
+      <animateMotion begin="-0.5s" dur="3.5s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#snake-path" />
+      </animateMotion>
+    </circle>
+    <circle r="2.5" opacity="0.7">
+      <animateMotion begin="-0.75s" dur="3.5s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#snake-path" />
+      </animateMotion>
+    </circle>
+    <circle r="2.5" opacity="0.6">
+      <animateMotion begin="-1s" dur="3.5s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#snake-path" />
+      </animateMotion>
+    </circle>
+  </g>
+</svg>
